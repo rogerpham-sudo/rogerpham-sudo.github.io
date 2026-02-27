@@ -5,4 +5,22 @@ Name of website
 A project by Jonathan, Roger, and Elliot
 
 -justification-
-Recently, the Australian housing market has had a crisis in affordability for most prospective house owners. This particularly affects most young adults, Gen Z, who along with a scarce job market, have no hope of ever owning a home. The cause of these issues isn't very clear and has caused political issues with misinformation and accusations. This website aims to shed some light on the problem using publicly available data, primarily from the <a href="https://www.abs.gov.au/">Australian Bureau of Statistics</a>, and the list of tables and links can be found in the bibliography pag.
+Recently, the Australian housing market has had a crisis in affordability for most prospective house owners. This particularly affects most young adults, Gen Z, who along with a scarce job market, have no hope of ever owning a home. The cause of these issues isn't very clear and has caused political issues with misinformation and accusations. This website aims to shed some light on the problem using publicly available data, primarily from the <a href="https://www.abs.gov.au/">Australian Bureau of Statistics</a>, and the list of tables and links can be found in the bibliography page.
+
+-page 1 title-
+Housing Availability
+
+-page 1 subtitle-
+Median house prices, newly completed houses, and total number of households.
+
+-page 2 title-
+Population Change
+
+-page 2 subtitle-
+Estimated resident population, population change, and net overseas migration.
+
+-page 3 title-
+Findings
+
+-page 3 subtitle-
+Conclusion with summary and possible solutions.
