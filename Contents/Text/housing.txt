@@ -1,0 +1,5 @@
+-title-
+Housing Availability
+
+-subtitle-
+Housing prices both in Australia and the rest of the world are greatly impacted by the number of available house, basic supply and demand.
