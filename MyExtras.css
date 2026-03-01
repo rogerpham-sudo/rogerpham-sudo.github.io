@@ -9,36 +9,36 @@
 
 
 body {
-  background-color: var(--background) !important;
+  background-color: var(--background);
   color: var(--text);
   font-family: 'Montserrat', sans-serif;
 }
 
 
 .footer {
-  background-color: var(--secondary) !important;
+  background-color: var(--secondary);
     padding-bottom: 1rem;
     padding-top: 1rem;
 }
 
 
 .navbar {
-  background-color: var(--secondary) !important;
+  background-color: var(--secondary);
 }
 
 
 .navbar_s {
-  color: var(--text) !important;
+  color: var(--text);
   font-family: 'Merriweather', serif;
   text-decoration: none;
   padding-right: 15px;
-  padding-bottom: 15pxpx;
+  padding-bottom: 2px;
 }
 
 
 .hero_box {
   border-radius: 15px;
-  background-color: var(--primary-but-dark) !important;
+  background-color: var(--primary-but-dark);
   color: var(--text);
   padding-bottom: 2rem;
   padding-top: 2rem;
@@ -47,30 +47,36 @@ body {
 
 
 .card_s {
-  background-color: #ffffff !important;
+  background-color: #ffffff;
   border-left: 6px solid var(--primary);
-  border-radius: 12px;
+  border-radius: 15px;
 }
 
 
 .button_s {
-  background-color: var(--accent) !important;
-  color: var(--text) !important;
+  background-color: var(--accent);
+  color: var(--text);
   border: none;
   transition: transform 0.3s ease-out;
   
 }
 
 .button_s:hover {
-  background-color: var(--secondary) !important;
-  color: var(--text) !important;
+  background-color: var(--secondary);
+  color: var(--text);
   transform: translateY(-2.5px);
 }
 
 
 .analysis_box {
-  background-color: var(--accent) !important;
+  background-color: var(--accent);
   border-radius: 15px;
   padding: 2rem;
+}
 
+
+.graph_container {
+  background-color: #ffffff;
+  border: 4px solid var(--accent);
+  border-radius: 15px;
 }
