@@ -38,6 +38,11 @@ body {
   padding-bottom: 2px;
 }
 
+.navbar_s:hover {
+  background-color: var(--accent);
+  color: var(--text);
+}
+
 
 .hero_box {
   border-radius: 15px;
@@ -94,4 +99,5 @@ body {
   height: 100%;
   width: auto;
   margin-left: -12px;
+
 }
