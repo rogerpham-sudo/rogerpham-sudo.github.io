@@ -98,8 +98,14 @@ body {
 }
 
 .subtitle {
-    margin-right: 5rem !important;
-    margin-left: 5rem !important;
+  margin-right: 5rem !important;
+  margin-left: 5rem !important;
 }
 
-
+.footer {
+  position: fixed;
+  width: 100vw;
+  bottom: 0px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
