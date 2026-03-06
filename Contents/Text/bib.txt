@@ -1,11 +1,5 @@
-[6] Australian Bureau of Statistics. (2025, September). Building Activity, Australia. ABS. https://www.abs.gov.au/statistics/industry/building-and-construction/building-activity-australia/latest-release.
+[1] Australian Bureau of Statistics. (Sep-quarter-2025). Total Value of Dwellings. ABS. https://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/total-value-dwellings/latest-release.
 
-[8] Australian Bureau of Statistics. (2025, December). Monthly Employee Earnings Indicator. ABS. https://www.abs.gov.au/statistics/labour/earnings-and-working-conditions/monthly-employee-earnings-indicator/latest-release.
+[2] Australian Bureau of Statistics. (2025, September). Building Activity, Australia. ABS. https://www.abs.gov.au/statistics/industry/building-and-construction/building-activity-australia/latest-release.
 
-[9] Australian Bureau of Statistics. (Dec-quarter-2025). Lending indicators. ABS. https://www.abs.gov.au/statistics/economy/finance/lending-indicators/latest-release.
-
-[10] Australian Bureau of Statistics. (2024, June). Australia's population by country of birth. ABS. https://www.abs.gov.au/statistics/people/population/australias-population-country-birth/latest-release.
-
-[11] Redbridge. (February 2025). House Affordability and the 2025 Election.
-
-[12] Australian Bureau of Statistics. (2025, June). National, state and territory population. ABS. https://www.abs.gov.au/statistics/people/population/national-state-and-territory-population/latest-release.
+[3] Australian Bureau of Statistics. (2025, June). National, state and territory population. ABS. https://www.abs.gov.au/statistics/people/population/national-state-and-territory-population/latest-release.
